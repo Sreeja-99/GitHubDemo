@@ -16,7 +16,7 @@ public class ClassCTest{
 	{
 		System.out.println("This is 8th testcase ");
 		System.out.println("This is imported from GitbHub");
-		System.out.println("Adding new testcase to reflect in branch by US guy")
+		System.out.println("Adding new testcase to reflect in branch by US guy");
 	}
 	
 	@Test
@@ -24,7 +24,7 @@ public class ClassCTest{
 	{
 		System.out.println("This is 9th testcase ");
 		System.out.println("This is imported from GitbHub");
-		System.out.println("Adding new testcase to reflect in branch by US guy")
+		System.out.println("Adding new testcase to reflect in branch by US guy");
 	}
 
 }
